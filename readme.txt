@@ -26,7 +26,7 @@ A different program is written to exhibit the detection of Harris Corners. This 
 Extensions
 Two functions are implemented to explore placement and scaling relative to the target with the utilization of corners acquired from the OpenCV functions. One function accurately places a cube on the first square of the chessboard. The second function implements a color-varying barrier/shield that masks the chessboard completely to give the disguise of an actual object placed on a surface.
 
-To run the program, change the address string in main to use a different camera. Augment.cpp is the main function to view calibration, chessboard corners, 3D and 2D projections with extensions. Aug.h and Aug.cpp are function files for Augment. robust_Aug.cpp is the main file for Harris corner detection(Task 7).
+To run the program, change the address string in main to use a different camera. Augment.cpp is the main function to view calibration, chessboard corners, 3D and 2D projections with extensions. Aug.h and Aug.cpp are function files for Augment. robust_Aug.cpp is the main file for Harris corner detection.
 
 References are also provided in the README.
 
